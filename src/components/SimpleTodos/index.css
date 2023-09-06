@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.ul-container {
+  background-color: #ffffff;
+  min-height: 30%;
+  width: 100%;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 900;
+}
